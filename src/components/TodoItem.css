@@ -1,0 +1,43 @@
+.todoWrapper{
+    border: 3px solid #efefef;
+    text-align: left;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+.removeTodo{
+    color: white;
+    padding: 10px;
+    top: -9px;
+    position: relative;
+    float: right;
+    border: none;
+    background: rgba(73,204,249,1);
+    border-radius: 3px;
+}
+.checkTodo{
+    color: white;
+    padding: 10px;
+    top: -9px;
+    position: relative;
+    float: right;
+    border: none;
+    background: rgba(73,204,249,1);
+    border-radius: 3px;
+}
+.check{
+    color:red;
+    border: 3px solid #efefef;
+    text-align: left;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+.noCheck{
+    color:black;
+    border: 3px solid #efefef;
+    text-align: left;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 5px;
+}
